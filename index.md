@@ -166,7 +166,7 @@ A Talking Heads is olyan zenekar, ami élőben jobb, mint stúdióban, koncerten
 Byrne borderline autista rocksztár, aki tévékről meg mikről írt dalokat, hát milyen már ez.
 
 De Tina Weymouth-t is bírom, aki úgy lett egészen különleges basszusgitáros, hogy tök nem tudott játszani, amikor megalapították a zenekart.
-És a Tom-Tom Clubot is szeretem, Tina és Chris Frantz side projectjét: <https://youtu.be/c-77pDLNLe4>
+És a Tom-Tom Clubot is szeretem, Tina és Chris Frantz side projectjét: <https://youtu.be/aCWCF19nUhA>
 
 A Stop Making Sense pedig a legjobb koncertfilm a világon.
 
@@ -263,7 +263,7 @@ Nem is tudom.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9qYF9DZPdw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Kezdjük valami vidámmal: szeretem a vicces számokat (hello Zlad, <https://youtu.be/MNyG-xu-7SQ>, hello Ivan Mladek <https://youtu.be/5T_uxoV5FuQ>).
+Kezdjük valami vidámmal: szeretem a vicces számokat (hello Zlad, <https://youtu.be/MNyG-xu-7SQ>, hello Ivan Mladek <https://youtu.be/rP0oUWzaMcg>).
 Amit Weird Al Yankovic csinál, az ezen túlmutat, de ezt mások már megírták.
 Mindenesetre miatta vagyok képtelen vagyok röhögés nélkül hallani egy rakás klasszikus számot (tessék, neked se legyen jobb: <https://youtu.be/FklUAoZ6KxY>).
 
@@ -301,7 +301,7 @@ A Moziklip című filmből van, amit tizenévesen láttam először, talán a Ta
 Már akkor megfogott, aztán Zsófival együtt fedeztük fel újra.
 Majd nézd meg, nagyon jó.
 
-De a Napoleon Boulevard általában is az, mennyi erő van benne (https://youtu.be/-RIEqVfah2Q, de ezt biztos ismered).
+De a Napoleon Boulevard általában is az, mennyi erő van benne (<https://youtu.be/-RIEqVfah2Q>, de ezt biztos ismered).
 Ekkoriban kezdtem elfogadni, hogy szeretem a nyolcvanas évekbeli szintipopot, amit korábban azért szégyelltem.
 
 ## 21/38 [Wilco: Jesus Etc](https://youtu.be/efq95Pfqt5U)
