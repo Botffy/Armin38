@@ -5,6 +5,8 @@ Ráadásul (mert kicsit kocka vagyok) nagyjából időrendben.
 
 Ezt a Facebookon posztoltam több darabban, de @lestarcdog szólt, hogy egybegyűjthetném, ha más nem, a kereshetőség miatt.
 Eltelt egy év, már 39 éves vagyok, de most itt van neked, GitHubon, az Ármin38.
+Azt csak most vettem észre, hogy ez igazából 39 szám, mert egyszer csak elrontottam a számozást.
+Annál illőbb!
 
 ## 1/38 [The Doors: Peace Frog](https://youtu.be/6lnoM25D-js)
 
@@ -548,3 +550,7 @@ Azért legyen itt egy felvétel a fénykorukból https://youtu.be/eE0a6tK6AJI
 Most képzelj el úgy, hogy egy rakás cédével a karomban futok a vonat után, hogy várj, várj, lemaradt a Big Star, meg a Ghost, meg Richard Dawson, meg Lykke Li, Placebo, MS MR, a Woodkid, Rodriguez, a Remember Sports, Haley Reinhart, úristen Johnny Cash, a Múm, Björk is, Nick Drake, Bonnie "Prince" Billy, Soccer Mommy, meg a DEPECHE MODE!!!*
 
 ---
+
+Youtube playlist:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3FA7lZYbQspqenhIIX6sCF5CQl6Ryk0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
