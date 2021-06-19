@@ -554,3 +554,13 @@ Most képzelj el úgy, hogy egy rakás cédével a karomban futok a vonat után,
 [Youtube playlist](https://www.youtube.com/playlist?list=PL3FA7lZYbQspqenhIIX6sCF5CQl6Ryk0H)
 
 [A Last.fm profilom](https://www.last.fm/user/type4error)
+
+---
+
+<script src="https://utteranc.es/client.js"
+        repo="Botffy/Armin38"
+        issue-term="index.md"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
