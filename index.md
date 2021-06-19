@@ -308,7 +308,7 @@ Ekkoriban kezdtem elfogadni, hogy szeretem a nyolcvanas évekbeli szintipopot, a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efq95Pfqt5U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Először Zsófi mutatta a [ow To Fight Loneliness]https://youtu.be/sVAb2kbx1gI)t, aztán pár évvel később a Yankee Hotel Foxtrot albumot hallgattam sokat: emlékszem, az E-Groupban voltam, tök későn, egyedül az irodában, és rendesen beleborzongtam ebbe a részbe: <https://youtu.be/MiunRkXHP3g?t=262>. 
+Először Zsófi mutatta a [How To Fight Loneliness](https://youtu.be/sVAb2kbx1gI)t, aztán pár évvel később a Yankee Hotel Foxtrot albumot hallgattam sokat: emlékszem, az E-Groupban voltam, tök későn, egyedül az irodában, és rendesen beleborzongtam ebbe a részbe: <https://youtu.be/MiunRkXHP3g?t=262>. 
 Kísérteties, nem?
 Titkosszolgálati rádióadásból van: <https://en.wikipedia.org/wiki/Numbers_station>
 
