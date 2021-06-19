@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 show_downloads: false
 google_analytics: UA-18859769-2
+github:
+  is_project_page: false
