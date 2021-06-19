@@ -1,0 +1,1 @@
+Ezt tavaly írtam, amikor 38 éves lettem.
