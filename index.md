@@ -8,6 +8,8 @@ Eltelt egy év, már 39 éves vagyok, de most itt van neked, GitHubon, az Ármin
 
 ## 1/38 [The Doors: Peace Frog](https://youtu.be/6lnoM25D-js)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lnoM25D-js" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Kezdetben volt a Doors.
 
 Hát ötletem sincs, hogy mi fogta meg a Doorsban a 13 éves kissrácot, aki voltam.
@@ -22,6 +24,8 @@ A kedvenc albumom a Strange Days, de ez a szám nem arról van.
 
 ## 2/38 [The Beatles: For No One](https://youtu.be/ELlLIwhvknk)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELlLIwhvknk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Apámtól kaptam.
 Először nagyon a késői számokra buktam, most már inkább a koraiakra.
 Először nagyon John-fan voltam, mára megszerettem Pault.
@@ -33,6 +37,8 @@ Mit mondhatnék róla, a világ legjobb zenekara, hát mit lehet tenni.
 
 ## 3/38 [Kontroll Csoport: Jöjj Drágám](https://youtu.be/Ax8W5YfzaKs)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ax8W5YfzaKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ...aztán 16 éves korom körül az egyik osztálytársamtól (Bálint) kaptam a nyolcvanas évek magyar undergroundját.
 Egészen elbűvölt.
 Azóta is úgy vagyok néhány számmal, hogy ez hogy nem világhírű??
@@ -43,6 +49,8 @@ Nagy hatást tett rám, kiakadtam, hogy EZT MOST HOGY.
 Van rólam egy kiskori kép, hogy egy majom ül az ölemben, én meg hőkölök vissza, na úgy voltam a Magyar Péterrel is.
 
 ## 4/38 [Balaton: Ragaszthatatlan szív](https://www.youtube.com/watch?v=qTDmVXhrzVs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTDmVXhrzVs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 De a nyolcvanas évek magyar undergroundja közül a Balaton fogott meg a legjobban.
 Azóta is ugyanúgy megfog, ez nem olyan távolivá vált barátság, mint a Doors, ez egy aktív kapcsolat. 
@@ -64,6 +72,8 @@ Pl Alice Coopertől a Billion Dollar Babies, azt még mindig fura ÉNEKKEL hallg
 
 ## 5/38 [The Who: A Quick One (While He's Away)](https://youtu.be/RJv2-_--EY4)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJv2-_--EY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Hú, de sokat hallgattam.
 
 (Elnézést.)
@@ -79,6 +89,8 @@ A Live In Leeds volt meg cédén, meg a Who's Next, meg rémlenek valami mp3-ak 
 (Belinkelem gyorsan az [Elton Johnos Pinball Wizardot](https://youtu.be/joxyFDmh_LY) is, ne maradjon ki senkinek)
 
 ## 6/38 [Bob Dylan: All Along The Watchtower](https://youtu.be/bT7Hj-ea0VE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT7Hj-ea0VE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Tizenhét éves lehettem, amikor elhatároztam, hogy tágítom a zenei ízlésemet, és meg fogom ismerni Bob Dylant, akiről akkor a nevén kívül semmit sem tudtam.
 Elmentem a Vörösmarty téri cédéboltba, és megvettem kazettán az Infidelst, mert az volt a legolcsóbb.
@@ -97,6 +109,8 @@ Emlékeztet a fontos dolgokra.
 
 ## 7/38 [Cseh Tamás: Lee van Cleef](https://youtu.be/TzZzm0bF0os)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzZzm0bF0os" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Ha már gitáros trubadúrokról van szó, hej. Hej hej hej, hej hej hej.
 
 Igazi lemezen volt meg édesanyámnak a Levél nővéremnek, onnan ismerem.
@@ -110,6 +124,8 @@ Hej. Hej hej hej, hej hej hej.
 
 ## 8/38 [Supertramp: Logical Song](https://youtu.be/low6Coqrw9Y)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/low6Coqrw9Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Nyálas és erősen hullámzó minőségű, de szeretem, és ez is tizenéves korom óta velem van.
 Huszonkét vagy mennyi éves korom körül rengeteget hallgattam, főleg a párizsi koncertalbumot, azokat a szövegeket azóta is fejből tudom, együtt éneklem vele és táncolok rá, ugyanakkor hányok tőle, talán mert geil, talán mert túladagoltam.
 
@@ -119,6 +135,8 @@ Még koncerten is voltam: az aranyos történet, nagyanyámtól kaptam a jegyet,
 
 ## 9/38 [Neurotic: Vén véna](https://youtu.be/wzQ07iSV7oo)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wzQ07iSV7oo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Ez is nyolcvanas évekbeli underground, és tizenéves koromtól velem van.
 Pajor Tamás lehetett volna a magyar Jim Morrison, ha időben meghal.
 Nem halt meg, helyette hitgyülis lett, és emiatt divat köpködni.
@@ -127,6 +145,8 @@ De én a későbbi korszakait is szeretem, az Önök értéket sokat hallgattam,
 Az se, amikor a szótagszám nem jön ki a nyelvtörős kétértelmekben, az igazából csak növeli. Linkelek egy újabb Pajor számot is: https://youtu.be/YtgI13gS5bM
 
 ## 10/38 [Nick Cave & Bad Seeds: The Weeping Song](https://youtu.be/TqhOVY58zIo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TqhOVY58zIo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ez volt az első zene, amit én mutattam apámnak, nem pedig fordítva.
 Emlékszem, kérdeztem is tőle valami olyasmit, hogy "te, miért nem mondtad, hogy ez ilyen jó??", amire elnevette magát.
@@ -138,6 +158,8 @@ Annyi fizikaiság van ezekben.
 
 ## 11/38 [Talking Heads: Life During Wartime](https://youtu.be/jShMQw2H2cM)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jShMQw2H2cM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 A Talking Heads is olyan zenekar, ami élőben jobb, mint stúdióban, koncerten érvényesül csak igazán David Byrne ideges energiája.
 Byrne borderline autista rocksztár, aki tévékről meg mikről írt dalokat, hát milyen már ez.
 
@@ -148,6 +170,8 @@ A Stop Making Sense pedig a legjobb koncertfilm a világon.
 
 ## 12/38 [Leonard Cohen: Famous Blue Raincoat](https://youtu.be/ohk3DP5fMCg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohk3DP5fMCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Hát költő, fantasztikus szövegekkel.
 A zenei részéről néha jobb nem beszélni, bár azokban is van valami elemi.
 
@@ -157,6 +181,8 @@ A gitárkísérettel motyogott verseket csak később ismertem meg, általában 
 A Hallelujah feldolgozásaival amúgy ki lehet kergetni a világból. 
 
 ## 13/38 [Dax Riggs: Wherever Forever Is](https://youtu.be/74Xknp-SHeQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/74Xknp-SHeQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Még sose találkoztam senkivel, aki ismerte volna.
 Én úgy találtam, 2008-ban, hogy vállalható feldolgozást kerestem Leonard Cohen I'm Your Manjéből, és a YouTube feldobta Dax Riggst.
@@ -176,6 +202,8 @@ Amikor megtaláltam, még aktívan fellépett, egy ideje nincs róla hír.
 
 ## 14/38 [I Love You: Kész vagyok](https://youtu.be/Wcv5qwPwLSE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wcv5qwPwLSE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 A 80-as évekbeli magyar underground 90-es évekbeli hajtása.
 Minden, de tényleg minden, számuk a szerelemről és a szexről szól, ami szerintem világviszonylatban is egyedi.
 Másrészt nekik köszönhetjük azt a halhatatlan mondatot, hogy "mért, szerinted a gitár az magyar?" (újságírói kérdésre, hogy miért angol nevük van)
@@ -189,12 +217,16 @@ A gitáros, Déri Miklós tök híres fotós lett, néha arra gondolok, ráírha
 
 ## 15/38 [Trabant: Tudod hogy soha](https://youtu.be/_5yUdS7Gv2Q)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_5yUdS7Gv2Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Elég korán láttam a filmet, még mielőtt tudtam volna, hogy a Trabant a Balaton előfutára.
 Sokkolt is, kicsi voltam.
 
 De kazim nem is volt belőle, igazából csak 2008 körül ismertem meg, amikor Vető János feltett egy csomó számot a YouTube-ra, pl https://youtu.be/S6FAdZODawc
 
 ## 16/38 [Európa Kiadó: Romolj meg](https://youtu.be/1pOaF4wQ55o)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pOaF4wQ55o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Furán vagyok az EK-val.
 Iszonyat sokat hallgattam az életben, tudom az összes szöveget, némelyikbe rendesen bele is borzongok, mégis mindig van bennem egy távolságtartás.
@@ -204,6 +236,8 @@ Talán mert annyira igyekszik kommersz lenni?
 Én is az egyik kommersz számot tettem ide, pedig igazából a kedvencem a [Bon Bon Si Bon](https://youtu.be/Ob74WwpK5ns)
 
 ## 17/38 [Tom Lehrer: Oedipus Rex](https://youtu.be/mScdJURKGWM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mScdJURKGWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ez meg a kakukktojás 🙂.
 Tom Lehrer az ötvenes-hatvanas években adott elő vicces stílusparódiákat, meg szatirikus politikai dalokat.
@@ -225,6 +259,8 @@ Nem is tudom.*
 
 ## 17/38 [Weird Al Yankvic: White & Nerdy](https://youtu.be/N9qYF9DZPdw)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N9qYF9DZPdw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Kezdjük valami vidámmal: szeretem a vicces számokat (hello Zlad, https://youtu.be/MNyG-xu-7SQ, hello Ivan Mladek https://youtu.be/5T_uxoV5FuQ).
 Amit Weird Al Yankovic csinál, az ezen túlmutat, de ezt mások már megírták.
 Mindenesetre miatta vagyok képtelen vagyok röhögés nélkül hallani egy rakás klasszikus számot (tessék, neked se legyen jobb: https://youtu.be/FklUAoZ6KxY).
@@ -233,6 +269,8 @@ A White & Nerdyben a kedvencem a bubble wrapes rész ("pop-pop, I hope no one se
 Meg a háttértáncos.
 
 ## 18/38 [Sickratman: Tibi](https://youtu.be/ejqeHlG6_l8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ejqeHlG6_l8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Paizs Miklóst a Balra át című számmal ismertem meg, amit BE SE LINKELEK.
 Meg a Buzi-e vagy című albummal, ami szintén bájosan obszcén.
@@ -243,6 +281,8 @@ Egyszer voltunk a teaházban, ahol akkor pincér volt, teljesen lefagytam, és m
 
 ## 19/38 [Republic: Gyere közelebb](https://youtu.be/M4Ujmn7wFJA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4Ujmn7wFJA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Cikis, mi?
 Dehogy cikis.
 Cipőben kasszul keveredett az érzékenység és a maszkulinitás, a zenéjében tök egyedien elegyedik a népzenei hatás meg a softrock, a színpadi mozgása szuper, a balos számaik szövegei pedig tök autentikusan munkásosztályosak.
@@ -250,6 +290,8 @@ Cipőben kasszul keveredett az érzékenység és a maszkulinitás, a zenéjébe
 Persze a zenekarról készült képek cikisek.
 
 ## 20/38 [Napoleon Boulevard: Álmunkra vigyázz](https://youtu.be/GlOi9k0WX_Y)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlOi9k0WX_Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Klippel együtt ér.
 
@@ -261,6 +303,8 @@ De a Napoleon Boulevard általában is az, mennyi erő van benne (https://youtu.
 Ekkoriban kezdtem elfogadni, hogy szeretem a nyolcvanas évekbeli szintipopot, amit korábban azért szégyelltem.
 
 ## 21/38 [Wilco: Jesus Etc](https://youtu.be/efq95Pfqt5U)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efq95Pfqt5U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Először Zsófi mutatta a [ow To Fight Loneliness]https://youtu.be/sVAb2kbx1gI)t, aztán pár évvel később a Yankee Hotel Foxtrot albumot hallgattam sokat: emlékszem, az E-Groupban voltam, tök későn, egyedül az irodában, és rendesen beleborzongtam ebbe a részbe: https://youtu.be/MiunRkXHP3g?t=262 . 
 Kísérteties, nem?
@@ -279,6 +323,8 @@ Szóval folytatom, ez itt most a posztpunk rész lesz. Már 2016 elején járunk
 
 ## 22/38 [Blondie: Fan Mail](https://youtu.be/-MnJ9bNEan0)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MnJ9bNEan0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Nem szól olyan jól, de koncertfelvételt akartam, mert a Blondie is jobb élőben, mert Debbie Harry tök szexi, meg mert videón jól kijön a Blondie jellegzetessége, ez a színészkedés.
 
 Olyanok a számaik, mint valami kis operák ([Contact In Red Square](https://youtu.be/bKq5H-wFDsQ) ftw).
@@ -289,6 +335,8 @@ Ne feletjsük el, hogy a CBGB punkszcénából nőttek ki.
 Ki kell még emelni Clem Burke-öt, a dobost, iszonyat precíz, én nagyon bírom a dobgépszerű dobosokat. Ez még sokszor elő fog jönni 🙂.
 
 ## 23/38 [Gang of Four: Damaged Goods](https://youtu.be/byCqOvRMOvo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byCqOvRMOvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Figyeled, mennyire nekem való?
 Dobgépszerű dobos, a dallamot a basszus adja, a ritmust pedig a gitár, gyors és kaotikus, táncolható, balos politikus szöveg amiben egy szakítást a fogyasztói társadalom szókészletével ír le, áhh 😍
@@ -302,6 +350,8 @@ De az egész első album nagyon ütős, pl https://youtu.be/ElhAysq3O6c
 
 ## 24/38 [Orange Juice: Rip It Up](https://youtu.be/UzPh89tD5pA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UzPh89tD5pA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 A GoF annyira tetszett, hogy elolvastam egy könyvet a posztpunkról, hogy művelt legyek.
 Abban volt egy rakás zenekar, amit akkor el is kezdtem hallgatni, pl az Orange Juice.
 
@@ -311,6 +361,8 @@ Aztán a nagy slágere után nem sokkal agyvérzést kapott, afáziás lett, és
 
 ## 25/38 [Devo: Mongoloid](https://youtu.be/0b-nFSUXcuM)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0b-nFSUXcuM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Kiemelhettem volna a [Satisfaction feldolgozásukat](https://youtu.be/jadvt7CbH1o), de azt már biztos mutattam, meg a Mongoloidban van az a társadalomkritika, ami miatt a Devo több, mint egy poén.
 Meg tudok azonosulni ezzel a számmal.
 Persze cserébe elég offenzív, és szándékosan az (azért ez punk), és most vonzza a kis náci edgelordokat, akiknek az tetszik, hogy politikailag inkorrekt.
@@ -318,6 +370,8 @@ Persze cserébe elég offenzív, és szándékosan az (azért ez punk), és most
 Azt is nehéz elképzelni, hogy a Devo slágerlistás volt, pedig de https://youtu.be/j_QLzthSkfM (persze a klip miatt, MTV revolution)
 
 ## 26/38 [Everything But The Girl: On My Mind](https://youtu.be/h2ZyKPTNIPY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2ZyKPTNIPY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Az EBTG-t is abból a könyvből ismerem, ez volt az első szám, amit meghallgattam tőlük, elbűvölt.
 
@@ -329,6 +383,8 @@ Smiths?
 Vajon mi lehet az?
 
 ## 27/38 [The Smiths: There Is A Light That Never Goes Out](https://youtu.be/siO6dkqidc4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/siO6dkqidc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A kapudrogom a Peel sessions volt, pl a [Handsome Devil](https://youtu.be/5c4T3-5ybrY), hát micsoda szöveg, "let my get my hands on your mammary glands".
 Egy ideig valahol még taszított is, aztán teljesen beszívott.
@@ -344,6 +400,8 @@ Már nem ad annyit, de még mindig hatással van rám, meg hát "don't forget th
 ---
 
 ## 28/38 [Miike Snow: Genghis Khan](https://youtu.be/P_SlAzsXa7E)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_SlAzsXa7E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Pontosan emlékszem, ezt hogy találtam: Tom Lehrert hallgattam a YouTube-on, és egyszer csak ott volt ez a szám az ajánlatok között.
 A kimerevített képkocka felkeltette a figyelmemet: ki lehet ez a fura kopasz alak?
@@ -365,6 +423,8 @@ Egyébként a zenekar egyik fele, a svéd csávók, írták Britney Spearsnek a 
 
 ## 29/38 [Peter Bjorn and John: The Chills](https://youtu.be/PhpuzW0Wc_M)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhpuzW0Wc_M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 A Google Play Music ajánlórendszere dobta fel a slágert, a fütyülős számot https://youtu.be/iArXv64tCJA, biztos ismered.
 Én meg belezúgtam az albumba. 
 
@@ -375,10 +435,14 @@ Voltam koncerten! Nagy show, Peter kicsit túl is tolja a showmanshipet 🙂
 
 ## 30/38 [Fallulah: Bridges](https://youtu.be/aolcLKW15mA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aolcLKW15mA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 2016-ban kaptam Fallulah-t: dán, és nem örülök, hogy nem világhírű.
 A szülei egy balkán néptáncegyüttes tagjai voltak, és ez tök érződik a dalain.
 
 ## 31/38 [Phoebe Bridgers: Motion Sickness](https://youtu.be/9sfYpolGCu8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sfYpolGCu8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 "I hate you for what you did, and I miss you like a little kid"
 
@@ -388,6 +452,8 @@ Mindig várom az új release-eket, és mindegyikre tök rákattanok https://yout
 
 ## 32/38 [Poppy: Aristocrat](https://youtu.be/kfZu5r7fDaI)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfZu5r7fDaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Hát van Poppynak a bizarr háttere: Titanic Sinclair, a fura videók https://youtu.be/fpCXxqiTjqE meg a Church of Poppy, Mars Argo (Titanic Sinclair előző projectje https://youtu.be/tp1ZluX4aYs, rengeteget hallgattam, majdnem kapott saját entryt is).
 
 ... de figyu, megkíméllek a részletektől.
@@ -395,6 +461,8 @@ Indie performance project, ami furán keveredik a mainstream poppal, és tök t�
 Ez még egy korai, ezt is megmutatom, sokat hallgattam https://youtu.be/iLdu2RFAlD8
 
 ## 33/38 [Mark Ronson: Record Collection](https://youtu.be/fi904pYLkJM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fi904pYLkJM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Oké, ez már nem annyira indie.
 
@@ -415,6 +483,8 @@ Ha ez egy lakatlan szigetre vitt dalok listája lenne, most kezdenék igazán k�
 
 ## 34/38 [Lady Gaga: Starstruck](https://youtu.be/n6LBhLPCbc4)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6LBhLPCbc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Oké, szóval van bennem sznobizmus, ezt tudod.
 Amikor Lady Gaga berobbant a köztudatba, szelid elnézéssel tekintettem a dologra, a húsruha meg az ilyesmi enyhén taszított (pedig ismertem is valakit, aki szerette).
 És csak 201...6?-ban fedeztem fel magamnak az első albumot, és azóta 😍
@@ -427,6 +497,8 @@ Vagy "a dizzy twister dance, can't find my drink or man" https://youtu.be/2Abk1j
 
 ## 35/38 [Sia: The Greatest](https://youtu.be/GKSRyLdjsPA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKSRyLdjsPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Most miért pont ezt raktam be ide.
 Ott van a [Cheap Thrills](https://youtu.be/nYh-n7EOtMA), az vidám és kedves; vagy a [Big Girl Cry](https://youtu.be/4NhKWZpkw1Q) ha szomorút akarnék, az sokat eszembe jut ("act busy, order in, pay TV, it's agony"); vagy a [Thunderclouds](https://youtu.be/kg1BljLu9YY), azt mennyit hallgattam (ahogy jöttek ki, sorban minden LSD kislemezbe belezúgtam, tényleg nem is tudom miért; aztán a teljes album valahogy csalódás volt).
 
@@ -436,6 +508,8 @@ De ezt már szerintem meséltem neked, meg nem is tudom elmagyarázni.
 
 ## 36/38 [Julia Jacklin: Head Alone](https://youtu.be/0Z3IJT3Ke0Y)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z3IJT3Ke0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Majdnem azt írtam, hogy nem tudom, hol találtam, de már emlékszem: a First Aid Kit instagramján!
 (Úristen, ki fog maradni a First Aid Kit https://youtu.be/PC57z-oDPLs)
 
@@ -443,6 +517,8 @@ Ezt a lemezt hallgattam tőle sokat, igazából tanultam is belőle (vagy hát r
 Van egy elméletem, már biztos mondtam, hogy a férfi szerzők szerelmes számai olyanok, hogy "hú de akarlak", míg a női szerzőké a "szeretlek, de utálom ezt", és ez szerintem biológiai.
 
 ## 37/38 [Teepee: Around It](https://youtu.be/aUZoWjz0QhY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUZoWjz0QhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A tavalyi Peter Bjorn & John koncerten volt előzenekar a Teepee.
 Csehek, kitartóan játszották végtelenül lassú zenéjüket mind a tíz nézőnek, minden szám eléggé ugyanolyan volt (emlékszel, a csapos valami vicceset mondott, hogy "ez ilyen lassú este lesz").
@@ -452,6 +528,8 @@ De ez a szám az új lemezről van, ez valamivel poposabb és érettebb.
 Voltak azóta megint Budapesten, de akkor már járványpánik volt, meg fáradt is voltam, nem mentem el, azóta is bánom.
 
 ## 38/38 [The Bangles: Hazy Shade of Winter](https://youtu.be/19d2aolIx0E)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19d2aolIx0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Hát mi mással lehetne befejezni: 🎵 Time, time, time, see what's become of me 🎵 (esküszöm nem így terveztem, csak a Bangles kimaradt a posztpunk részből (persze joggal, nem is posztpunk)).
 
