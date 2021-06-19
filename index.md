@@ -551,6 +551,6 @@ Most képzelj el úgy, hogy egy rakás cédével a karomban futok a vonat után,
 
 ---
 
-Youtube playlist:
+[Youtube playlist](https://www.youtube.com/playlist?list=PL3FA7lZYbQspqenhIIX6sCF5CQl6Ryk0H)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3FA7lZYbQspqenhIIX6sCF5CQl6Ryk0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[A Last.fm profilom](https://www.last.fm/user/type4error)
