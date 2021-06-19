@@ -99,7 +99,7 @@ Elmentem a Vörösmarty téri cédéboltba, és megvettem kazettán az Infidelst
 
 Rosszabbul is járhattam volna: az Infidels nem egy rossz lemez (és mi lett volna, ha rákerül a [Blind Willie McTell](https://youtu.be/_uf5gi3E_rQ), máshogy alakul az életem), és hallgattam is, bekerült a rotációba (a táskámban hordtam egymás hegyén-hátán a kazettákat, jórészt tok nélkül, ami nem tett jót nekik), de azért azt nem értettem, mi a nagy hype.
 
-Aztán, sokkal később, de nem tudom pontosan mikor, az interneten megláttam a videót: https://youtu.be/OeP4FFr88SQ, és akkor fogott meg igazán.
+Aztán, sokkal később, de nem tudom pontosan mikor, az interneten megláttam a videót: <https://youtu.be/OeP4FFr88SQ>, és akkor fogott meg igazán.
 Ahogy halál komolyan mondja érthetetlen szövegét, azzal a cinikus félmosollyal, hogy azért hülye vagy, ha ezt komolyan veszed.
 De ezt már biztos meséltem.
 
@@ -144,7 +144,7 @@ Pajor Tamás lehetett volna a magyar Jim Morrison, ha időben meghal.
 Nem halt meg, helyette hitgyülis lett, és emiatt divat köpködni.
 
 De én a későbbi korszakait is szeretem, az Önök értéket sokat hallgattam, még mindig hallgatom, értékéből a hitgyüli nem von le.
-Az se, amikor a szótagszám nem jön ki a nyelvtörős kétértelmekben, az igazából csak növeli. Linkelek egy újabb Pajor számot is: https://youtu.be/YtgI13gS5bM
+Az se, amikor a szótagszám nem jön ki a nyelvtörős kétértelmekben, az igazából csak növeli. Linkelek egy újabb Pajor számot is: <https://youtu.be/YtgI13gS5bM>
 
 ## 10/38 [Nick Cave & Bad Seeds: The Weeping Song](https://youtu.be/TqhOVY58zIo)
 
@@ -166,7 +166,7 @@ A Talking Heads is olyan zenekar, ami élőben jobb, mint stúdióban, koncerten
 Byrne borderline autista rocksztár, aki tévékről meg mikről írt dalokat, hát milyen már ez.
 
 De Tina Weymouth-t is bírom, aki úgy lett egészen különleges basszusgitáros, hogy tök nem tudott játszani, amikor megalapították a zenekart.
-És a Tom-Tom Clubot is szeretem, Tina és Chris Frantz side projectjét: https://youtu.be/c-77pDLNLe4
+És a Tom-Tom Clubot is szeretem, Tina és Chris Frantz side projectjét: <https://youtu.be/c-77pDLNLe4>
 
 A Stop Making Sense pedig a legjobb koncertfilm a világon.
 
@@ -224,7 +224,7 @@ A gitáros, Déri Miklós tök híres fotós lett, néha arra gondolok, ráírha
 Elég korán láttam a filmet, még mielőtt tudtam volna, hogy a Trabant a Balaton előfutára.
 Sokkolt is, kicsi voltam.
 
-De kazim nem is volt belőle, igazából csak 2008 körül ismertem meg, amikor Vető János feltett egy csomó számot a YouTube-ra, pl https://youtu.be/S6FAdZODawc
+De kazim nem is volt belőle, igazából csak 2008 körül ismertem meg, amikor Vető János feltett egy csomó számot a YouTube-ra, pl <https://youtu.be/S6FAdZODawc>
 
 ## 16/38 [Európa Kiadó: Romolj meg](https://youtu.be/1pOaF4wQ55o)
 
@@ -245,7 +245,7 @@ Ez meg a kakukktojás 🙂.
 Tom Lehrer az ötvenes-hatvanas években adott elő vicces stílusparódiákat, meg szatirikus politikai dalokat.
 Az azóta eltelt hatvan év alatt persze sok utalás megfakult, de szerintem tök elemi bennük a humor, vicces és kész, mindig megnevettet.
 Ráadásul Tom Lehrer eredetileg matematikus volt.
-Itt vannak a matekos dalok, messze a visszavonulása után: https://youtu.be/zxFCQplZgKI?t=93. 
+Itt vannak a matekos dalok, messze a visszavonulása után: <https://youtu.be/zxFCQplZgKI?t=93>. 
 Annyira otthonos érzés hallgatni, nem is tudom, miért.
 A Derivative Songból tanultam meg a derivált definícióját, de ezt már meséltem. 
 
@@ -263,9 +263,9 @@ Nem is tudom.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9qYF9DZPdw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Kezdjük valami vidámmal: szeretem a vicces számokat (hello Zlad, https://youtu.be/MNyG-xu-7SQ, hello Ivan Mladek https://youtu.be/5T_uxoV5FuQ).
+Kezdjük valami vidámmal: szeretem a vicces számokat (hello Zlad, <https://youtu.be/MNyG-xu-7SQ>, hello Ivan Mladek <https://youtu.be/5T_uxoV5FuQ>).
 Amit Weird Al Yankovic csinál, az ezen túlmutat, de ezt mások már megírták.
-Mindenesetre miatta vagyok képtelen vagyok röhögés nélkül hallani egy rakás klasszikus számot (tessék, neked se legyen jobb: https://youtu.be/FklUAoZ6KxY).
+Mindenesetre miatta vagyok képtelen vagyok röhögés nélkül hallani egy rakás klasszikus számot (tessék, neked se legyen jobb: <https://youtu.be/FklUAoZ6KxY>).
 
 A White & Nerdyben a kedvencem a bubble wrapes rész ("pop-pop, I hope no one sees me, getting freaky").
 Meg a háttértáncos.
@@ -308,9 +308,9 @@ Ekkoriban kezdtem elfogadni, hogy szeretem a nyolcvanas évekbeli szintipopot, a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efq95Pfqt5U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Először Zsófi mutatta a [ow To Fight Loneliness]https://youtu.be/sVAb2kbx1gI)t, aztán pár évvel később a Yankee Hotel Foxtrot albumot hallgattam sokat: emlékszem, az E-Groupban voltam, tök későn, egyedül az irodában, és rendesen beleborzongtam ebbe a részbe: https://youtu.be/MiunRkXHP3g?t=262 . 
+Először Zsófi mutatta a [ow To Fight Loneliness]https://youtu.be/sVAb2kbx1gI)t, aztán pár évvel később a Yankee Hotel Foxtrot albumot hallgattam sokat: emlékszem, az E-Groupban voltam, tök későn, egyedül az irodában, és rendesen beleborzongtam ebbe a részbe: <https://youtu.be/MiunRkXHP3g?t=262>. 
 Kísérteties, nem?
-Titkosszolgálati rádióadásból van: https://en.wikipedia.org/wiki/Numbers_station
+Titkosszolgálati rádióadásból van: <https://en.wikipedia.org/wiki/Numbers_station>
 
 De szóval Wilco általában: a zenekarnak alt-country gyökerei vannak, igazából itt jöttem rá, hogy az alt-country nekem tetszik.
 De valami nagyon taszít Jeff Tweedyben, a frontemberben, és Jay Bennett (aki elég kiállhatatlan faszi volt, és ki is rúgták a HYF után, és nyomorban halt meg, durva történet) dolgai közelebb állnak hozzám.
@@ -346,7 +346,7 @@ Dobgépszerű dobos, a dallamot a basszus adja, a ritmust pedig a gitár, gyors 
 Az énekesről valahol azt olvastam, hogy "olyan, mint David Byrne gonosz ikertestvére", ez nagyon találó.
 Érdemes koncertfelvételeket is nézni, lökdösi a többieket a színpadon, vicces.
 
-De az egész első album nagyon ütős, pl https://youtu.be/ElhAysq3O6c
+De az egész első album nagyon ütős, pl <https://youtu.be/ElhAysq3O6c>
 
 ...azért fura elképzelni, hogy egy olyan szám, mint a [Love Like Anthrax](https://youtu.be/aj-h3zmGVO4) slágerlistás lehetett
 
@@ -357,7 +357,7 @@ De az egész első album nagyon ütős, pl https://youtu.be/ElhAysq3O6c
 A GoF annyira tetszett, hogy elolvastam egy könyvet a posztpunkról, hogy művelt legyek.
 Abban volt egy rakás zenekar, amit akkor el is kezdtem hallgatni, pl az Orange Juice.
 
-Edwyn Collinsnak, az énekesnek, csak sokkal később, a szólókarrierje alatt lett egy hatalmas, tök váratlan slágere https://youtu.be/6oqJ0JpMj6I, biztos emlékszel is rá, a gyerekkorunkban ment a rádióban.
+Edwyn Collinsnak, az énekesnek, csak sokkal később, a szólókarrierje alatt lett egy hatalmas, tök váratlan slágere <https://youtu.be/6oqJ0JpMj6I>, biztos emlékszel is rá, a gyerekkorunkban ment a rádióban.
 
 Aztán a nagy slágere után nem sokkal agyvérzést kapott, afáziás lett, és csak a felesége nevét tudta kimondani, meg azt a mondatot, hogy "The possibilities are endless".
 
@@ -369,7 +369,7 @@ Kiemelhettem volna a [Satisfaction feldolgozásukat](https://youtu.be/jadvt7CbH1
 Meg tudok azonosulni ezzel a számmal.
 Persze cserébe elég offenzív, és szándékosan az (azért ez punk), és most vonzza a kis náci edgelordokat, akiknek az tetszik, hogy politikailag inkorrekt.
 
-Azt is nehéz elképzelni, hogy a Devo slágerlistás volt, pedig de https://youtu.be/j_QLzthSkfM (persze a klip miatt, MTV revolution)
+Azt is nehéz elképzelni, hogy a Devo slágerlistás volt, pedig de <https://youtu.be/j_QLzthSkfM> (persze a klip miatt, MTV revolution)
 
 ## 26/38 [Everything But The Girl: On My Mind](https://youtu.be/h2ZyKPTNIPY)
 
@@ -393,7 +393,7 @@ Egy ideig valahol még taszított is, aztán teljesen beszívott.
 Elbűvölt, ahogy rettenetesen privát érzéseket tud kimondani, meg elbűvölt ez az életérzés, hogy "borzalmas vagyok, értéktelen, de így is jobb vagyok mindnyájatoknál", azonosultam is vele.
 
 És akkor kb három évig folyamatosan hallgattam Smiths-t, sokat adott.
-Már nem ad annyit, de még mindig hatással van rám, meg hát "don't forget the songs that saved your life" https://youtu.be/5CLEEtDXP_Y
+Már nem ad annyit, de még mindig hatással van rám, meg hát "don't forget the songs that saved your life" <https://youtu.be/5CLEEtDXP_Y>
 
 ---
 
@@ -411,7 +411,7 @@ A kimerevített képkocka felkeltette a figyelmemet: ki lehet ez a fura kopasz a
 Ez a kedvenc számom.
 
 Nyilván csak klippel együtt ér.
-A rendező Ninian Doff, ez a másik klip, amit a Miike Snownak csinált, ugyanezzel a két táncossal, és a kubai rakétaválságot dolgozza fel: https://youtu.be/wl6k_h2drK8.
+A rendező Ninian Doff, ez a másik klip, amit a Miike Snownak csinált, ugyanezzel a két táncossal, és a kubai rakétaválságot dolgozza fel: <https://youtu.be/wl6k_h2drK8>.
 
 ...de azért jó a szöveg is, nem? 
 "I get a little bit Genghis Khan", erős ez.
@@ -427,11 +427,11 @@ Egyébként a zenekar egyik fele, a svéd csávók, írták Britney Spearsnek a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PhpuzW0Wc_M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-A Google Play Music ajánlórendszere dobta fel a slágert, a fütyülős számot https://youtu.be/iArXv64tCJA, biztos ismered.
+A Google Play Music ajánlórendszere dobta fel a slágert, a fütyülős számot <https://youtu.be/iArXv64tCJA>, biztos ismered.
 Én meg belezúgtam az albumba. 
 
 Gondolom, már tudod, mi tetszik benne: precíz dob, a basszus adja a dallamot... meg tudok azonosulni a szövegekkel.
-Az új számok is tök jók https://youtu.be/C4Pc6OvAx6k
+Az új számok is tök jók <https://youtu.be/C4Pc6OvAx6k>
 
 Voltam koncerten! Nagy show, Peter kicsit túl is tolja a showmanshipet 🙂
 
@@ -450,17 +450,17 @@ A szülei egy balkán néptáncegyüttes tagjai voltak, és ez tök érződik a 
 
 Hú, Phoebe Bridgers.
 Tök taszít és zavar, ahogy ennyire kitárulkozik a szövegeiben, de mégis annyira vonzó az egész.
-Mindig várom az új release-eket, és mindegyikre tök rákattanok https://youtu.be/Tw0zYd0eIlk
+Mindig várom az új release-eket, és mindegyikre tök rákattanok <https://youtu.be/Tw0zYd0eIlk>
 
 ## 32/38 [Poppy: Aristocrat](https://youtu.be/kfZu5r7fDaI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfZu5r7fDaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Hát van Poppynak a bizarr háttere: Titanic Sinclair, a fura videók https://youtu.be/fpCXxqiTjqE meg a Church of Poppy, Mars Argo (Titanic Sinclair előző projectje https://youtu.be/tp1ZluX4aYs, rengeteget hallgattam, majdnem kapott saját entryt is).
+Hát van Poppynak a bizarr háttere: Titanic Sinclair, a fura videók <https://youtu.be/fpCXxqiTjqE> meg a Church of Poppy, Mars Argo (Titanic Sinclair előző projectje <https://youtu.be/tp1ZluX4aYs>, rengeteget hallgattam, majdnem kapott saját entryt is).
 
 ... de figyu, megkíméllek a részletektől.
 Indie performance project, ami furán keveredik a mainstream poppal, és tök táncolható és hallgatható számok esnek ki belőle.
-Ez még egy korai, ezt is megmutatom, sokat hallgattam https://youtu.be/iLdu2RFAlD8
+Ez még egy korai, ezt is megmutatom, sokat hallgattam <https://youtu.be/iLdu2RFAlD8>
 
 ## 33/38 [Mark Ronson: Record Collection](https://youtu.be/fi904pYLkJM)
 
@@ -468,9 +468,9 @@ Ez még egy korai, ezt is megmutatom, sokat hallgattam https://youtu.be/iLdu2RFA
 
 Oké, ez már nem annyira indie.
 
-A Smiths korszakom ment, úgy találtam a Stop Me If You Think That You've Heard This One Before feldolgozást https://youtu.be/878ixmkVWcE, de a Record Collection album fogott meg igazán.
+A Smiths korszakom ment, úgy találtam a Stop Me If You Think That You've Heard This One Before feldolgozást <https://youtu.be/878ixmkVWcE>, de a Record Collection album fogott meg igazán.
 Énekel rajta Andrew Wyatt a Miike Snowból 🙂.
-Aztán mostanában a Late Night Feelingset hallgattam sokat https://youtu.be/OpNJTr7q1LM 
+Aztán mostanában a Late Night Feelingset hallgattam sokat <https://youtu.be/OpNJTr7q1LM> 
 
 Nézd meg a [Ted talkját](https://www.ted.com/talks/mark_ronson_how_sampling_transformed_music?fbclid=IwAR0nwxUmth22YJbiSAEfPaIafDMxBgNFoDGh7n--BjVSA-jBDYRRUlnvW84) is
 
@@ -495,7 +495,7 @@ Lehet, hogy ez azt jelenti, hogy azért változom?
 
 "Put your hands on my waist, pull the fader", hát mennyire plasztikus már, mennyire látható, kifejező, mennyire érzéki.
 Lady Gaga a modern popzene legnagyobb költője.
-Vagy "a dizzy twister dance, can't find my drink or man" https://youtu.be/2Abk1jAONjw, ahh 😍😍😍
+Vagy "a dizzy twister dance, can't find my drink or man" <https://youtu.be/2Abk1jAONjw>, ahh 😍😍😍
 
 ## 35/38 [Sia: The Greatest](https://youtu.be/GKSRyLdjsPA)
 
@@ -513,7 +513,7 @@ De ezt már szerintem meséltem neked, meg nem is tudom elmagyarázni.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z3IJT3Ke0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Majdnem azt írtam, hogy nem tudom, hol találtam, de már emlékszem: a First Aid Kit instagramján!
-(Úristen, ki fog maradni a First Aid Kit https://youtu.be/PC57z-oDPLs)
+(Úristen, ki fog maradni a First Aid Kit <https://youtu.be/PC57z-oDPLs>)
 
 Ezt a lemezt hallgattam tőle sokat, igazából tanultam is belőle (vagy hát ráébredtem dolgokra), van benne egy mélység a párkapcsolatokról.
 Van egy elméletem, már biztos mondtam, hogy a férfi szerzők szerelmes számai olyanok, hogy "hú de akarlak", míg a női szerzőké a "szeretlek, de utálom ezt", és ez szerintem biológiai.
@@ -524,7 +524,7 @@ Van egy elméletem, már biztos mondtam, hogy a férfi szerzők szerelmes száma
 
 A tavalyi Peter Bjorn & John koncerten volt előzenekar a Teepee.
 Csehek, kitartóan játszották végtelenül lassú zenéjüket mind a tíz nézőnek, minden szám eléggé ugyanolyan volt (emlékszel, a csapos valami vicceset mondott, hogy "ez ilyen lassú este lesz").
-De tetszett, és meg is vettem a CD-jüket, a Mirrort https://youtu.be/0OxNB_GfkGk.
+De tetszett, és meg is vettem a CD-jüket, a Mirrort <https://youtu.be/0OxNB_GfkGk>.
 De ez a szám az új lemezről van, ez valamivel poposabb és érettebb.
 
 Voltak azóta megint Budapesten, de akkor már járványpánik volt, meg fáradt is voltam, nem mentem el, azóta is bánom.
@@ -539,7 +539,7 @@ Hát mi mással lehetne befejezni: 🎵 Time, time, time, see what's become of m
 
 Van egy olyan hitem, hogy a Bangles a 80as évek lánybeatlese lehetett volna, ha az ipar nem darálja be őket.
 A kedvencem egyébként a basszusgitáros, Michael Steele, aki a Runaways alapító tagja volt, de... hosszú történet, mindegy is.
-Azért legyen itt egy felvétel a fénykorukból https://youtu.be/eE0a6tK6AJI 
+Azért legyen itt egy felvétel a fénykorukból <https://youtu.be/eE0a6tK6AJI> 
 
 ---
 
